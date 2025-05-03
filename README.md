@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Rorry, a Web Developer 👋🏼:
-🛜 Currently building my personal [webpage](https://www.tobiasmeyhoefer.de)  
+🛜 Currently building my personal [webpage](https://koru-stream.vercel.app/)  
 🎓 Studying **Information Technology** at **PHINMA COC**  
 💻 Web developer since 2022 — now open to **freelance opportunities**  
 
