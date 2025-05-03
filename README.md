@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm John Doe
+### 👋 Hi there, I'm Rorry Ramos
 I'm a Full Stack Developer specializing in React, Node.js, and nextjs.
 
 **Languages:** JavaScript, PHP  
