@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi there, I'm John Doe
+I'm a Full Stack Developer specializing in React, Node.js, and nextjs.
 
-<!--
-**rorryramos115/rorryramos115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages:** JavaScript, PHP  
+**Frameworks:** React, Next.js, Express, Tailwind
+**Tools:** Git, Supbase, Firebase, MySQL, MongoDB
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)](https://git.io/streak-stats)
+
+📧 Email: your@email.com  
+💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+🌐 [Portfolio](https://yourportfolio.com)
+
+
