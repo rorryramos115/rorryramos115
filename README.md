@@ -16,8 +16,17 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-📧 Email: your@email.com  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🌐 [Portfolio](https://yourportfolio.com)
+<h2>⚡️ Where to find me</h2>
+<p>
+  <a href="https://github.com/rorryramos115" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/rorry-ramos-11a2b2362/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://web.facebook.com/rorry.ramos.3/" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
 
