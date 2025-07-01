@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/b8b95abf-ae3a-4a18-8737-895a525996e9" alt="rory.code banner" width="100%" />
+<img src="https://github.com/user-attachments/assets/b8b95abf-ae3a-4a18-8737-895a525996e9" alt="rory.code banner" width="100%" height="30%" />
 
 # Hello World!, I'm Rorry, a Web Developer 👋🏼:
 👨‍💻 Currently building my personal [webpage](https://koru-stream.vercel.app/)  
@@ -15,16 +15,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-<h2>⚡️ Where to find me</h2>
-<p>
-  <a href="https://www.linkedin.com/in/rorry-ramos-11a2b2362/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://web.facebook.com/rorry.ramos.3/" target="_blank">
-    <img src="https://img.shields.io/badge/facebo![banner](https://github.com/user-attachments/assets/c3ffc04b-867e-4c39-a531-f668aa117062)
-ok-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
-
-
