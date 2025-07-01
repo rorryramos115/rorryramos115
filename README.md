@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Rorry, a Web Developer 👋🏼:
 👨‍💻 Currently building my personal [webpage](https://koru-stream.vercel.app/)  
@@ -22,7 +22,8 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://web.facebook.com/rorry.ramos.3/" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/facebo![banner](https://github.com/user-attachments/assets/c3ffc04b-867e-4c39-a531-f668aa117062)
+ok-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
