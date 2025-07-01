@@ -1,4 +1,4 @@
-<img src="banner.jpg" alt="GitHub Banner" width="100%" />
+<img src="https://github.com/user-attachments/assets/b8b95abf-ae3a-4a18-8737-895a525996e9" alt="rory.code banner" width="100%" />
 
 # Hello World!, I'm Rorry, a Web Developer 👋🏼:
 👨‍💻 Currently building my personal [webpage](https://koru-stream.vercel.app/)  
